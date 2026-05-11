@@ -10,14 +10,13 @@ const listSkin = [
     ]
   },
   {
-    image: "https://picsum.photos/id/155/200/100",
-    date: "18 Apr 2026",
-    title: "Tes",
-    videoUrl: "https://www.youtube.com/embed/6EiR_XF7Gqw?si=def456",
+    image: "https://ik.imagekit.io/SchwanzML13/20260510_120610.jpg",
+    date: "10 Mei 2026",
+    title: "Jawhead Collector Revamp",
+    videoUrl: "https://www.youtube.com/embed/nOZGHWKd4JA?si=def456",
     replaceItems: [
-      { name: "Default", desc: "", downloadUrl: "#" },
-      { name: "Basic", desc: "", downloadUrl: "#" },
-      { name: "Elite", desc: "", downloadUrl: "#" }
+      { name: "Default", desc: "", downloadUrl: "https://sfl.gl/ejs9H" },
+      { name: "Basic", desc: "", downloadUrl: "https://sfl.gl/8KyYomc" },
     ]
   },
   {
@@ -31,15 +30,14 @@ const listSkin = [
   ]
 },
   {
-    image: "https://picsum.photos/id/210/200/100",
-    date: "26 Apr 2026",
-    title: "Tes",
-    videoUrl: "https://www.youtube.com/embed/4kM7iDOVtNI?si=jkl012",
+    image: "https://ik.imagekit.io/SchwanzML13/20260509_203705.jpg",
+    date: "9 Mei 2026",
+    title: "Balmond Collector Revamp",
+    videoUrl: "https://www.youtube.com/embed/5aNQqTl5ccc?si=jkl012",
     replaceItems: [
-      { name: "Default", desc: "", downloadUrl: "#" },
-      { name: "Basic", desc: "", downloadUrl: "#" },
-      { name: "Epic", desc: "", downloadUrl: "#" },
-      { name: "Legend", desc: "", downloadUrl: "#" }
+      { name: "Default", desc: "", downloadUrl: "https://sfl.gl/BGDnkWe" },
+      { name: "Basic", desc: "", downloadUrl: "https://sfl.gl/CCBEh" },
+      
     ]
   }
 ];
